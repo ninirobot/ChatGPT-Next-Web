@@ -24,6 +24,7 @@ describe("isVisionModel", () => {
       "qwen2-vl-max",
       "gpt-4-turbo",
       "dall-e-3",
+      "deepseek",
     ];
 
     visionModels.forEach((model) => {
